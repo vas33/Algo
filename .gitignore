@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.tlog
+*.ilk
+*.pdb
+*.idb
+
+Debug/
+Release/
+*.ipch
+BTree/.vs/BTree/v14/.suo
+*.db
